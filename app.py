@@ -9,3 +9,9 @@ print(f'valor = {12345}')
 # print(x,type(x))
 # print(dir(int))
 # print(help(int))
+
+print(' ')
+a = ['U'] + ['RN']
+print(a)
+b = ['4'] * 4
+print(b)
